@@ -12,4 +12,4 @@ Investors make money from interest. Lending Club makes money by charging borrowe
 * Download the folder and run the .ipynb files using Jupyter Notebook  
 * The source file is too large, you can access it via below link:  
  https://lending-club-loan-dataset.s3.amazonaws.com/dataset/loan.csv   
- * The LC Dictinary file gives a detailed explanations of the dataset columns  
+ * The LC Dictionary file gives a detailed explanations of the dataset columns  
